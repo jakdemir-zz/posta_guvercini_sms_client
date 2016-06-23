@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<SMS-InsRequest>
+	<CLIENT user="5322222122" pwd="7777" />
+	<INSERTMSG text="Sevgili Dostlar, şu andan itibaren İstiklal cad-Halep psj Marin Silver olarak faaliyetimiz devam etmektedir.
+Ziyaretinizi bekleriz.
+0536 5820000" dt="2009/11/03 17:42">
+{0}
+	</INSERTMSG>
+</SMS-InsRequest>
